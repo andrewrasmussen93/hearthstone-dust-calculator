@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hearthstone Dust Calculator</title>
-    <meta name="description" content="A simple Hearthstone dust calculator to easily calculate the amount of dust missing based on card rarity.">
+    <meta name="description" content="A simple Hearthstone dust calculator to easily calculate the amount of dust needed for a set of cards based on rarity.">
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="icon" type="image/png" href="favicon.png">
   </head>
